@@ -1,0 +1,6 @@
+What is the role of iot in machine learning?
+What is the contribution of Asia in Iot?
+What is the definition of Machine Learning?
+What are the major learning paradigms?
+When was Python 3.0 released?
+How do neurons connect in a neural network?

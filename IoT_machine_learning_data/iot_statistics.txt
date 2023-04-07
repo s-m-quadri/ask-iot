@@ -1,0 +1,85 @@
+There are well over 13 billion connected IoT devices around the globe
+It's expected there will be 25.4 billion IoT devices by 2030
+IoT devices surpassed non-IoT devices in 2020
+There are more than 400 active IoT platforms in existence
+Video entertainment is the biggest spending category in IoT
+
+There are almost as many connected IoT devices as there are people worldwide (Finance Online)
+The volume of connected IoT devices has grown recently. And is expected to grow year-over-year for the foreseeable future.
+
+According to the latest available data, there are approximately 13.15 billion connected IoT devices.
+
+There will be 25 billion+ IoT devices within the next 7 years (Finance Online)
+The number of current IoT devices (7 billion) may seem staggering. But thanks 5G and other technologies, this figure is expected to grow by over 3x to 25.44 billion total IoT devices by 2030.
+
+IoT devices outnumber non-IoT devices (IoT Analytics)
+There has been a notable shift from non-IoT devices to IoT devices over the last decade. In fact, by 2030, 75% of all devices are forecast to be IoT.
+
+The consumer sector dominates the landscape with a majority share of IoT devices. Electricity, gas, steam & AC, and manufacturing make up considerably smaller (yet relatively significant) portions of the industry.
+
+The number of IoT platforms more than doubled in four years (IoT Analytics).
+The number of IoT platforms has increased year-over-year.
+
+In 2015, there were 260 publicly known IoT platforms. This figure jumped to 360 in 2016. And increased by a further 90 to 450 the following year.
+
+By 2019 there were 620 publicly known IoT platforms - 426 of which were still active in 2021 including global names like Microsoft and Amazon.
+
+IoT spending is set to reach $1 trillion this year (FinleyUSA).
+
+Worldwide IoT spending has been increasing year-over-year by at least $40 billion since 2018.
+
+In 2020, IoT spending reached $749 billion. In 2022, global IoT spending was predicted to hit $1 trillion.
+
+In 2023, spending is expected to grow to $1.1 trillion, continuing the increased rate of growth year-over-year.
+
+Asia accounts for over 1/3rd of all IoT spending (European Commission)
+
+Despite a marked increase in IoT spending in recent years, market share by region isn’t expected to change drastically.
+
+Back in 2018, the Asia Pacific region had the largest regional market share with 37% (over a third of total global IoT spending.)
+
+Japan (9%) and Latin America (9%) made up the rest of worldwide IoT spending.
+
+It is predicted that in 2023, only one of these regions will have increased/decreased its share by more than 2%.
+
+The video entertainment category sees more spending than all other IoT categories combined (IDC)
+Video entertainment was the largest category of smart home spending in 2017 and 2018.
+
+This is expected to be the case in 2023. But other categories are predicted to occupy a larger share of IoT spending.
+
+Here’s a look at the estimated smart home spending by category in 2022:
+
+The IoT market is currently worth approximately $800 billion.
+
+And is expected to grow to almost $1.1 trillion at a CAGR of 13% in 2024.
+
+Consumer media topped $100 billion of revenue in 2022 (Tech Business News)
+The single largest IoT revenue segment in 2022 was consumer media and internet devices ($101.8 billion).
+
+Connected vehicles ($73.8 billion) and payment terminals ($39.4 billion) were the second and third-highest IoT segments by revenue. Combined, they generated just over 10% more than consumer media and internet devices alone.
+
+
+Smart home spending increased year-over-year at a steady rate between 2015 and 2019 (Strategy Analytics)
+Consumer spending on smart home-related devices worldwide increased by at least 12% year-over-year between 2015 and 2019.
+
+Unsurprisingly, during the height of the pandemic in 2020, smart home consumer spending dipped 9.47%.
+
+Between 2013 and 2016, total investment grew from around $450 million to $1.03 billion. In that same period, the number of VC deals also increased from approximately 170 to 340.
+
+
+Approximately 1 in 10 VC deals are in the IoT space (Verdict)
+In the first half of 2021, the IoT space was responsible for 11.1% of all VC deals. That figure represents an increase of 1.2% over January-June 2020 and a further 2.8% over July-December of the same year.
+
+Sensor processing is believed to be IoT's main focus in the near future (ARM)
+IoT has come a long way in a relatively short space of time. And demand is higher than ever.
+
+A 2021 survey on the future of IoT innovations classed sensor processing as the most important area of focus with 48% of the vote.
+
+Computer vision received 38% of respondent votes, while voice recognition was the other major suggestion with 13%.
+
+"Attacks on IoT devices that impact critical operations" is the number one IoT-related security concern (Thales Group)
+A growing number of IoT devices raises an increasing number comes security concerns.
+
+Another 2019 survey suggested that the greatest IoT opportunity is smart cities. In total, 81% of respondents believe that IoT can be used to create smart cities, improve traffic management, digital signage, waste management, and more.
+
+From increasing investment to the skyrocketing number of devices, we hope these IoT stats helped you get a handle on this fast-growing space.
