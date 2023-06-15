@@ -4,7 +4,7 @@
 
 <p align="center">A Python-based command-line tool that leverages a custom implementation of the TF-IDF algorithm to provide interactive and concise three-point answers to IoT-related queries, making it a valuable resource for researchers and IoT enthusiasts.</p>
 
-## Features
+## I. Features
 
 1. **TF-IDF-based Querying:** "ask_iot" uses the TF-IDF algorithm to process and analyze IoT-related data, allowing users to obtain relevant information based on their queries.
 
@@ -16,7 +16,7 @@
 
 5. **Open-Source and FOSS:** "ask_iot" is released as free and open-source software (FOSS), enabling others to view, use, modify, and contribute to the tool's development.
 
-## Usage
+## II. Usage
 
 1. Install the code from this repository.
 
@@ -45,17 +45,17 @@
 	> learning.
 
 
-# Research Work
+## III. Research Work
 
-## Contents
+### Contents
 
 1. Introduction to Machine Learning
 2. Machine Learning and IoT
 3. Natural Language Processing with IoT
-... continue reading
+... [continue reading](NOTES.md)
 
 For a abstract view, please refer to the [Presentation](https://docs.google.com/presentation/d/15Crt39c7f4hn94sTE6PJ4gRnaWAT7Z3TCu3-UZE4f6A/edit?usp=sharing).
 
-## Acknowledgments
+### Acknowledgments
 
 This research work was carried out under the guidance of Pankaj Durole Sir, Assistant Professor in the Department of Computer Science and Engineering at Deogiri Institute of Engineering and Management Studies. The presentation and scripting were done or contributed by Untwale Waseb Ikramoddin, Kazi Mohammed Muneebuddin, and Syed Minnatullah Quadri.
