@@ -52,9 +52,9 @@
 1. Introduction to Machine Learning
 2. Machine Learning and IoT
 3. Natural Language Processing with IoT
-... [continue reading](NOTES.md)
 
-For a abstract view, please refer to the [Presentation](https://docs.google.com/presentation/d/15Crt39c7f4hn94sTE6PJ4gRnaWAT7Z3TCu3-UZE4f6A/edit?usp=sharing).
+- Detailed [Notes](NOTES.md).
+- Abstract [Presentation](https://docs.google.com/presentation/d/15Crt39c7f4hn94sTE6PJ4gRnaWAT7Z3TCu3-UZE4f6A/edit?usp=sharing).
 
 ### Acknowledgments
 
